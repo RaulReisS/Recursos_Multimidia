@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+    <item
+        android:id="@+id/action_home"
+        android:icon="@drawable/home"
+        android:orderInCategory="1"
+        app:showAsAction="always"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/action_back"
+        android:icon="@drawable/arrowback"
+        android:orderInCategory="3"
+        app:showAsAction="always"
+        android:title="Back" />
+
+    <item
+        android:id="@+id/action_forward"
+        android:icon="@drawable/arrowforward"
+        android:orderInCategory="4"
+        app:showAsAction="always"
+        android:title="Forward" />
+
+</menu>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Recursos Multimídia</string>
+    <string name="title_activity_maps">Mapa</string>
+    <string name="title_activity_localizacao_maps">Map</string>
+    <string name="title_activity_apagar">Map</string>
+    <string name="map_error_get_current_location">Erro ao obter a localização atual.</string>
+    <string name="map_error_permissions">Você deve aceitar as permissões para executar a aplicação.</string>
+    <string name="title_activity_rotas">Map</string>
+    <string name="title_activity_rota1">Map</string>
+</resources>
